@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/router-crud-front/static/css/main.59a64076.css",
+    "main.js": "/router-crud-front/static/js/main.96ccc019.js",
+    "static/js/787.db04556b.chunk.js": "/router-crud-front/static/js/787.db04556b.chunk.js",
+    "static/media/Roboto-Bold.svg": "/router-crud-front/static/media/Roboto-Bold.541cb3422a94c6b7e915.svg",
+    "static/media/Roboto-Medium.svg": "/router-crud-front/static/media/Roboto-Medium.8c796214ef31c8ed26f7.svg",
+    "static/media/Roboto-Regular.svg": "/router-crud-front/static/media/Roboto-Regular.527dfaa48fd1b09fffcf.svg",
+    "static/media/Roboto-Medium.eot": "/router-crud-front/static/media/Roboto-Medium.95a5d9131d3469c3ce5e.eot",
+    "static/media/Roboto-Medium.ttf": "/router-crud-front/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
+    "static/media/Roboto-Regular.eot": "/router-crud-front/static/media/Roboto-Regular.ffdb6afaa75355e57a82.eot",
+    "static/media/Roboto-Regular.ttf": "/router-crud-front/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/Roboto-Bold.eot": "/router-crud-front/static/media/Roboto-Bold.57cefa6ff8c0ca7a891f.eot",
+    "static/media/Roboto-Bold.ttf": "/router-crud-front/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "static/media/Roboto-Medium.woff": "/router-crud-front/static/media/Roboto-Medium.d7b36842eec814ca96c2.woff",
+    "static/media/Roboto-Bold.woff": "/router-crud-front/static/media/Roboto-Bold.ad72f24fecee81055b62.woff",
+    "static/media/Roboto-Regular.woff": "/router-crud-front/static/media/Roboto-Regular.5de7b2aa0c98ccc93fc6.woff",
+    "static/media/icomoon.svg?jwe15y": "/router-crud-front/static/media/icomoon.b16c14f6db691b505cf8.svg",
+    "static/media/icomoon.eot?jwe15y": "/router-crud-front/static/media/icomoon.7fc3f0a1d55e2fc9e268.eot",
+    "static/media/icomoon.woff?jwe15y": "/router-crud-front/static/media/icomoon.acbbadb83669b918279f.woff",
+    "static/media/icomoon.ttf?jwe15y": "/router-crud-front/static/media/icomoon.24072e6941f1375aae8f.ttf",
+    "index.html": "/router-crud-front/index.html",
+    "main.59a64076.css.map": "/router-crud-front/static/css/main.59a64076.css.map",
+    "main.96ccc019.js.map": "/router-crud-front/static/js/main.96ccc019.js.map",
+    "787.db04556b.chunk.js.map": "/router-crud-front/static/js/787.db04556b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59a64076.css",
+    "static/js/main.96ccc019.js"
+  ]
+}
